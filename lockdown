@@ -1,0 +1,4 @@
+#! /usr/bin/bash
+
+sudo chown root $1;
+sudo chmod 700 $1;
